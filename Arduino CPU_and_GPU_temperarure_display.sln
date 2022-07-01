@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arduino CPU_and_GPU_temperature_display", "Arduino CPU_and_GPU_temperarure_display\Arduino CPU_and_GPU_temperature_display.csproj", "{4EA243E5-64A0-4987-8B85-815541E3F798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA243E5-64A0-4987-8B85-815541E3F798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA243E5-64A0-4987-8B85-815541E3F798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA243E5-64A0-4987-8B85-815541E3F798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA243E5-64A0-4987-8B85-815541E3F798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938586FC-95CE-44ED-B279-B82CDAA16750}
+	EndGlobalSection
+EndGlobal
